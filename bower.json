@@ -1,0 +1,21 @@
+{
+  "name": "grunt-base",
+  "description": "A base project for grunt",
+  "main": "index.js",
+  "authors": [
+    "jaxkodex"
+  ],
+  "license": "ISC",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap-sass": "^3.3.7",
+    "jquery": "^3.1.0"
+  }
+}
